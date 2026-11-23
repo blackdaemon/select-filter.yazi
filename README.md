@@ -6,10 +6,8 @@ It opens a smart-filter style prompt. As you type, the file list is filtered in 
 
 ## Installation
 
-Clone this repository into your Yazi plugins directory:
-
 ```sh
-git clone <repo-url> ~/.config/yazi/plugins/select-filter.yazi
+ya pkg add blackdaemon/select-filter
 ```
 
 ## Usage
